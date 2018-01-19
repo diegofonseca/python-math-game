@@ -1,2 +1,2 @@
-# python-math-game
-Hands-on Project. 
+# Python Game math
+Hands-on Project Game Math to pratice Python.
